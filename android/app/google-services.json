@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085289847038",
+    "project_id": "appointment-ef8fc",
+    "storage_bucket": "appointment-ef8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085289847038:android:6c0a28e097c0b2b0ffedaf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appointment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085289847038-csqh1c1kqqoaint6cnlaksv2u9fv1vku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOS0QK5BdgyWeFvDUJ-wk2qjN8mn8kNbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085289847038-csqh1c1kqqoaint6cnlaksv2u9fv1vku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
